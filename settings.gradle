@@ -1,0 +1,2 @@
+include ':app', ':hello_socket'
+rootProject.name='HelloSocket'
